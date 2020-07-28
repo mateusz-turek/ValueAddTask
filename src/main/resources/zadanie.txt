@@ -1,0 +1,18 @@
+Koronawirusy – gatunki wirusów, nale¿¹cych do podrodziny Coronavirinae z rodziny Coronaviridae w rzêdzie Nidovirales. Podrodzina Coronavirinae podzielona zosta³a na cztery rodzaje: alfa-(ang.), beta-(ang.), gamma-(ang.) i deltakoronawirusy(ang.) (³ac. Alphacoronavirus, Betacoronavirus, Gammacoronavirus i Deltacoronavirus). Nosicielami poszczególnych gatunków mog¹ byæ ssaki lub ptaki.
+
+Koronawirusy posiadaj¹ os³onkê oraz pojedyncz¹ niæ RNA o symetrii helikalnej i polarnoœci dodatniej. Rozmiar genomu znanych koronawirusów mieœci siê w zakresie od 26,4 do 31,7 knt[2], co jest wartoœci¹ niezwykle du¿¹ jak na wirusy RNA. Nazwa „koronawirus” wywodzi siê z ³ac. corona oznaczaj¹cego koronê lub wieniec, poniewa¿ os³onki wirusów w mikroskopii elektronowej wydaj¹ siê „ukoronowane” pierœcieniem ma³ych, przypominaj¹cych ¿arówki struktur. Klasa Baltimore: IV.
+Koronawirusy zwierzêce
+Koronawirusy zaka¿aj¹ ptaki i ssaki, powoduj¹c liczne choroby uk³adu oddechowego, nerwowego, narz¹dów wewnêtrznych czy uk³adu pokarmowego. Do chorób wywo³ywanych przez koronawirusy zwierzêce nale¿¹ m.in.:
+
+zakaŸne zapalenie oskrzeli u ptactwa (wywo³ane przez wirus ptasiego zapalenia oskrzeli – IBV – z rodzaju gamma-koronawirus)
+zakaŸne zapalenie otrzewnej kotów (wywo³ane przez wirus kociego koronawirusa z rodzaju alfa-koronawirus)
+epidemiczna biegunka œwiñ
+wirusowe zapalenie ¿o³¹dka i jelit u byd³a.
+Koronawirusy ludzkie
+Pierwsze szczepy koronawirusa ludzkiego zidentyfikowano w latach 60. XX wieku. W 1962 roku wyizolowano szczep B814 pochodz¹cy od dziecka z objawami przeziêbienia, stosuj¹c hodowlê narz¹dow¹ pochodz¹c¹ z tchawicy. Z powodu zaginiêcia próbki przed opracowaniem metod pozwalaj¹cych na identyfikacjê gatunku, dok³adne dane o B814 nie s¹ znane, jednak¿e w kolejnych latach uzyskano nastêpne izolaty kliniczne. Dwa z nich, 229E i OC43, zidentyfikowano jako osobne gatunki.
+
+Kolejny gatunek ludzkiego koronawirusa, znacznie groŸniejszy, zidentyfikowano w 2002 roku w chiñskiej prowincji Guangdong. Wirus SARS-CoV, nazywany tak od wywo³ywanego przez niego zespo³u ciê¿kiej niewydolnoœci oddechowej (ang. Severe Acute Respiratory Syndrome), spowodowa³ falê zachorowañ i 775 potwierdzonych zgonów
+
+W nastêpnych latach XXI wieku zidentyfikowano dwie kolejne stosunkowo rozpowszechnione grupy, NL63 i HKU1, które razem z 229E i OC43 s¹ jedn¹ z doœæ rozpowszechnionych przyczyn przeziêbieñ. Dwie ostatnie grupy odpowiedzialne s¹ za cykliczne (co 2–4 lata) epidemie zaka¿eñ dróg oddechowych, najczêœciej w okresie póŸnej jesieni, zimy i wczesnej wiosny, kiedy zmniejsza siê liczba zaka¿eñ rynowirusowych. Uwa¿a siê, ¿e koronawirusy s¹ odpowiedzialne za 10–20% wszystkich przeziêbieñ.
+
+Obecnie wyró¿nia siê siedem gatunków koronawirusów wywo³uj¹cych infekcjê u cz³owieka:
